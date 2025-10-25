@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **ShardManagerConfig**: Extended with `routerType` field supporting MODULO (default) and CONSISTENT options
 
 ### Fixed
-- **Test Infrastructure** ([#12](https://github.com/dream-sports-labs/shard-wizard/pull/12)): Comprehensive test fixes and refactoring
+- **Test Infrastructure** ([#12](https://github.com/ds-horizon/shard-wizard/pull/12)): Comprehensive test fixes and refactoring
   - Fixed DynamoDB shard manager configuration and test cases
   - Resolved PostgreSQL configuration issues in test environments
   - Corrected syntax errors and removed unused test files
