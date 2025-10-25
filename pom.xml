@@ -12,7 +12,7 @@
   <description>Vert.x library for scalable shard management and routing of entities across multiple
     shards
   </description>
-  <url>https://github.com/dream-sports-labs/shard-wizard</url>
+  <url>https://github.com/ds-horizon/shard-wizard</url>
 
   <licenses>
     <license>
@@ -23,9 +23,9 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/dream-sports-labs/shard-wizard</url>
-    <connection>scm:git:git://github.com/dream-sports-labs/shard-wizard.git</connection>
-    <developerConnection>scm:git:ssh://github.com/dream-sports-labs/shard-wizard.git
+    <url>https://github.com/ds-horizon/shard-wizard</url>
+    <connection>scm:git:git://github.com/ds-horizon/shard-wizard.git</connection>
+    <developerConnection>scm:git:ssh://github.com/ds-horizon/shard-wizard.git
     </developerConnection>
   </scm>
 
